@@ -2,7 +2,13 @@
  Trabajo final Gestion y almacenamiento de datos
 
 - Cuál es su problemática?
-
+El problema principal es la falta de un panel de control o herramienta que proporcione un informe de gestión claro y detallado. Esta herramienta debería permitir visualizar y analizar aspectos cruciales como:
+• Porcentajes de radicación según el proveedor de servicios de salud (IPS). 
+• Frecuencia de los pagos a los proveedores de servicios de salud (IPS). 
+• Estado actual de las deudas pendientes relacionadas con la facturación (informe a la fecha).
+• Principales departamentos que generan un mayor volumen mensual de radicaciones en términos de facturación.
+La disponibilidad de esta información permitiría brindar un apoyo significativo a la coordinación financiera para tomar decisiones oportunas en tiempo real, en función
+del estado actual de cada proveedor.
 - Que se encuentra en su repositorio?
 
 En el respositorio se encuentra un notebook llamado dataProveedores.ipynb el cual contiene la informacion de la data inicial, limpieza de datos y la data final con la que se trabajo para la problematica y solcuion del problema.Tambien se encuentra el notebook llamado BD_PROVEEDORES.ipynb el cual contiene el CRUD (create, read, update, delete) que se realiza en sqlite y python.
