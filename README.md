@@ -46,8 +46,8 @@ Fecha Pago: Fecha que se efectuó el pago de la factura
 
 -Que encontró en los datos?
 
-Se encontro informacion de 5 ips los cuales radican facturacion a la eps, en si se puede observar los pagos saldo y cruces que se realizan a una factura por proveedor (ips).
+Se encontro informacion de 5 ips los cuales radican facturacion a la eps, en si se puede observar los pagos, saldos y cruces que se realizan a una factura por proveedor (ips).
 
 -Cómo su descubrimiento podría dar valor a una empresa?
 
-Esto no va permitir dar una respuesta oportuna y cinsisa a la hora de conciliar con el proveedor o prestador del servicio, esto veneficia tanto a la IPS como a la EPS ya que serian datos confiables y en tiempo real.
+Esto nos va permitir dar una respuesta oportuna y cnnsisa a la hora de conciliar con el proveedor o prestador del servicio, esto veneficia tanto a la IPS como a la EPS ya que serian datos confiables y en tiempo real.
